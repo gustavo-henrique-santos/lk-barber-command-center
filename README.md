@@ -18,7 +18,7 @@
 
 <br>
 
-🔗 **[Ver Site ao Vivo](https://gustavo-santos-analytics.github.io/lk-barber-command-center/)** &nbsp;|&nbsp; 📊 **[Acessar Dashboard](#)** &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/santosgustavohenrique)**
+🔗 **[Ver Site ao Vivo](https://gustavo-henrique-santos.github.io/lk-barber-command-center/)** &nbsp;|&nbsp; 📊 **[Acessar Dashboard](#)** &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/santosgustavohenrique)**
 
 </div>
 
